@@ -16,7 +16,7 @@ permissions.sh
 
 main.sh
 
-    and finally in main.sh checking a condition whether required arguments are passed or not, if not then the script will abort
+ and finally in main.sh checking a condition whether required arguments are passed or not, if not then the script will abort
 
    if exact number of arguments are passed then it will execute all the scripts one by one in the order of 
       git.sh
