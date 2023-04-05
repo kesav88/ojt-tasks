@@ -4,11 +4,11 @@ git.sh
      taken 3 arguments git_url, branch and target directory into which i want to clone
 
 tar.sh
-     taken one argument which is a directory and made all files inside passed directory to a archive file
+ taken one argument which is a directory and made all files inside passed directory to a archive file
 
 webroot.sh
 
-     taken one argument which is a public key and created a /data/webroot directory and passed that public key to authorized_keys file of a user deploy
+taken one argument which is a public key and created a /data/webroot directory and passed that public key to authorized_keys file of a user deploy
 
 permissions.sh
     in permissions.sh file, changed ownership of /data/webroot directory to user deploy and group deploy
